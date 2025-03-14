@@ -4,4 +4,4 @@ This repository contains coding assignments focused on **Data Structures and Alg
 
 ## Assignments
 
-- [Assignment 1](./assignment-1.md) - [Title or description of the first assignment]
+- [Assignment 1](./assignment-1.md)
