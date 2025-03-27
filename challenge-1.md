@@ -33,7 +33,7 @@ FizzBuzz
 
 ## 2. Reverse a String 
 **Problem Statement:**  
-Write a function that takes a string as input and returns the string in reverse order.  
+Write a function that takes a string as input and returns the string in reverse order. 
 
 **Example Input & Output:**  
 ```js
